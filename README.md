@@ -125,7 +125,10 @@ Software has the means to provide education with the tools required for enabling
 
 Footnotes
 
-
+Video Games and the Future of Education, https://www.youtube.com/watch?v=qWFScmtiC44
+Rethinking Visual Programming, https://www.youtube.com/watch?v=Ps3mBPcjySE
+Star Code Galaxy, https://starcodegalaxy.com/
+Learn to Code FROM ZERO with Godot, the Free Game Engine, https://www.kickstarter.com/projects/gdquest/learn-to-code-from-zero-with-godot-the-free-game-engine
 
 References
 
