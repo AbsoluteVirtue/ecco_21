@@ -122,17 +122,14 @@ Software engineering is an applied science. It requires expertise in multiple do
 
 Software has the means to provide education with the tools required for enabling a richer learning experience, circumventing traditional text-heavy forms of teaching, providing more effective methods of learning concepts that are essential for developing computational thinking, that at the same time are hard to verbalize. As it was demonstrated above, code comprehension does not involve the language processing areas of the brain in any significant way. However, it remains to be seen how the act of designing and writing code activates the same areas of the brain, or whether it relies on them at all. It is also not clear to what extent the proposed new forms of teaching would be more effective as compared to the traditional forms. In any case this paper’s research cannot be considered conclusive. There is still the need to accumulate empirical proof to quantify the assumed positive effects of non-linguistic learning, but that would have to be the subject of a future study.
 
-## Footnotes
+## References
 
 [^1]: [Zachademics](https://www.zachtronics.com/zachademics/)
 [^2]: [Video Games and the Future of Education](https://www.youtube.com/watch?v=qWFScmtiC44)
 [^3]: [Star Code Galaxy](https://starcodegalaxy.com/)
 [^4]: [Rethinking Visual Programming](https://www.youtube.com/watch?v=Ps3mBPcjySE)
 [^5]: [Learn to Code FROM ZERO with Godot, the Free Game Engine](https://www.kickstarter.com/projects/gdquest/learn-to-code-from-zero-with-godot-the-free-game-engine)
-6. “**You Can Grow Your Intelligence**”, *Brainology Curriculum Guide for Teachers, Mindset Works, 2014* 
-
-## References
-
+[^6]: “**You Can Grow Your Intelligence**”, *Brainology Curriculum Guide for Teachers, Mindset Works, 2014*
 [^petersen]: C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “**The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It**”, *CBE life sciences education, 2020* 
 [^olsson]: M. Olsson, and P. Mozelius, “**Learning to Program by Playing Learning Games**”, *European Conference on Games Based Learning, 2017* 
 [^mayer]: R. Mayer, and L. Fiorella, “**Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles**”, *Cambridge Handbook of Multimedia Learning, pp.279-315, 2014* 
