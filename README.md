@@ -1,9 +1,9 @@
-# ecco_21
+# The Case for Non-linguistic Approach to Teaching Engineering Thinking
 Presentation, footnotes, references
 
 Software engineering is a multifaceted discipline. Mastering it requires memorizing a lot of factual information as well as learning a particular set of skills that enable the learner to tackle complex engineering tasks in a more efficient manner. It also requires the knowledge of at least one programming language. This makes teaching software engineering efficiently difficult. The traditional way of teaching programming (and by extension - engineering) to students heavily relies on delivering information in the form of lectures and via textbooks. This paper argues that lectures are becoming less and less effective [1] when it comes to teaching programming, and that there are methods of doing it using software solutions which take into account how the human brain processes code. This paper will provide several concrete examples of how software enables students to learn the “spirit of engineering and problem solving”1. Lastly, it argues that teaching programming without using textual explanations can be more effective in some contexts, and identifies several key aspects of using software that allow teaching major programming concepts without using textual information in order to make the whole learning process more efficient. 
 
-Reliance on “content delivery”
+## Reliance on “content delivery”
 
 Traditionally college/university-level engineering courses are taught in the form of lectures, where teachers are required by the curriculum to cover a certain amount of content to prepare their students for subsequent courses or examinations. Even though lectures can make up only part of a course (with other parts being dedicated to hands-on practice in the form of laboratory work or seminars where students drive the learning process), it is a significant part that students tend to pay the most attention to. As such, lectures become the core of each course and shape the students’ impressions of the subject. This often has drastic consequences for students’ success in later courses that rely on material from previous courses, even more so in cases where students are expected to have mastered certain skills during a course [2]. 
 
@@ -21,7 +21,7 @@ The process of learning is not simply about transferring knowledge from teacher 
 
 Designing and writing software is one of the most complex problems students can be tasked with. Software itself is often on the leading edge of any given industry’s advancement. It follows that software engineering/programming courses should be on the bleeding edge of education. In actuality, the opposite is true. High-profile courses like Harvard University’s CS50 program, while claiming to be designed “with the aims of making the content of the course more widely available and contributing to public understanding of innovative learning”2, do not go too far from the traditional lecture form in their attempts to innovate learning, only supplementing information delivered during lectures with various visualization techniques, and only sporadically. The author of this paper argues that simple visualizations, while helpful at facilitating memorization of new information via appealing to the temporal and spatial perception centers of the brain by illustrating relations between objects in space and time, do not illustrate the relations between different concepts presented to students from one lecture to the next, leaving it up to students to infer those connections from the material given to them. 
 
-Text and meta-text
+## Text and meta-text
 
 Recent studies have shown that the parts of the human brain that are linked to code comprehension do not overlap in a significant way with the parts of the brain linked to language processing (see fig. 2) [8][9].
 
@@ -37,17 +37,17 @@ To summarize, verbal or textual explanations of complex engineering/programming 
 
 Traditional approaches to learning (and teaching) programming revolve around reading copious amounts of text, which mostly teaches how to read other forms of text (code). While there is intrinsic value in reading code written by experts, reading explanations of that code is much less effective than trying to reason about the structure/function of a program and various features of a programming language and is of little value for the reasons listed above. A question then arises: is there an alternative more efficient way to teach the aforementioned “spirit of programming”, the abstract concepts of “programming” as a mental model? In other words, can students be taught to think like software engineers before learning a programming language or in some cases - before becoming fully fledged software engineers? 
 
-Computational thinking
+## Computational thinking
 
 Before discussing ways to stimulate the process of inferring specific concepts and ideas it needs to be established how exactly a programmer’s (and by extension - engineer's) way of thinking is different from the way of thinking of specialists from other fields. The term “instrumental thinking” borrowed from psychology was mentioned above several times. And while it applies to programming it is not directly linked to it because it had been in use before programming as activity fully emerged. To narrow the scope of this part down a new term must be introduced. 
 
-Computational thinking “is the thought process involved in formulating a problem and expressing its solution(s) in such a way that a computer—human or machine—can effectively carry out” [14]. In broader terms, this kind of thinking process can be described as “reformulating a seemingly difficult problem into one we know how to solve, perhaps by reduction, embedding, transformation, or simulation” [14]. Computational thinking as a concept does not describe a new kind of thinking process in a neuro-biological sense, it is a specialized term substituting “instrumental thinking” that implies understanding of objective processes specific to the problem at hand (see above). This could indicate the existence of the same relation between this type of thinking and speech as in the case of instrumental thinking. However, it is stated that “computational thinking is conceptualizing, not programming. It describes a way of thinking at multiple levels of abstraction, not only the ability to program” [15][emphasis added]. Thus, programming is a subset of computational thinking, since it is stated that computational thinking involves solution expression, at the same time contrasting it with programming. For the purposes of this paper, it is enough to consider that the process of producing a solution to an engineering problem is the same as doing so for a programming problem. 
+Computational thinking “is the thought process involved in formulating a problem and expressing its solution(s) in such a way that a computer—human or machine—can effectively carry out” [14]. In broader terms, this kind of thinking process can be described as “reformulating a seemingly difficult problem into one we know how to solve, perhaps by reduction, embedding, transformation, or simulation” [14]. Computational thinking as a concept does not describe a new kind of thinking process in a neuro-biological sense, it is a specialized term substituting “instrumental thinking” that implies understanding of objective processes specific to the problem at hand (see above). This could indicate the existence of the same relation between this type of thinking and speech as in the case of instrumental thinking. However, it is stated that “computational thinking is conceptualizing, *not programming*. It describes a way of thinking at multiple levels of abstraction, not only the ability to program” [15][emphasis added]. Thus, programming is a subset of computational thinking, since it is stated that computational thinking involves solution expression, at the same time contrasting it with programming. For the purposes of this paper, it is enough to consider that the process of producing a solution to an engineering problem is the same as doing so for a programming problem. 
 
 That has other implications as well. Firstly, that “programming” as an activity is separated into several distinct stages: formulating a problem, expressing a solution (in mathematical notation, programming language etc.), executing, evaluating - some or all of which go under the aegis of computational thinking - “[computational thinking] complements and combines mathematical and engineering thinking” [16]. Secondly, expressing a solution i.e., recording a set of steps using natural or formal languages itself requires a specific form of thinking, because distinct parts of the brain must be activated to enable this process - logic, reasoning, language etc. - all of which must be developed reasonably well to efficiently process incoming data and produce solutions. In this paper’s author’s opinion this is what distinguishes programming from other disciplines. A programmer/software engineer has to master multiple disciplines and train various parts of his brain before he can be confident in his abilities. 
 
 Consider these three primary forms of activity programmers routinely engage in: devising a solution to a problem; expressing that solution in code; evaluating and tweaking the solution. Each of these activities requires different strategies, concepts, and forms of knowledge. This would mean that learning to do each of them would require different approaches as well. The nature of the process behind the second activity is more easily understood since it involves mapping ready instructions to a specific language’s grammatical and syntactic rules. The thought processes behind the remaining two activities are not as easily defined. But regardless of the nature of the thought processes involved in the activities listed above, what’s important to point out is, it is not hands-on/empirical experience that is responsible for developing neural networks in the brain but the nature of the experienced activity, because the brain develops new pathways in response to acquiring new information [17]. Therefore, the chosen learning strategy bears the most importance in regards to effectiveness of learning processes. 
 
-Non-linguistic learning
+## Non-linguistic learning
 
 While this paper’s goal is to show that non-linguistic learning in the context of computational thinking is possible, it remains to be proven whether non-linguistic forms of learning are more efficient than traditional forms. However, there are several important benefits of using non-linguistic learning which could be leveraged for a more efficient learning process overall regardless of the medium: language agnostic learning solutions, conformity with the multimedia principle of delivering information, cognitive load theory aware methods of teaching, reflection-based learning, reactive learning environments, inference-inductive activities. This is by no means an exhaustive list and these characteristics are not exclusive or inherent to non-linguistic learning methods but all of them can be tapped into using non-linguistic forms of learning with the help of proper tools and methods to enhance the learning process. 
 
@@ -69,11 +69,11 @@ A structure of such intentions embedded into communication “makes it possible 
 
 In this context selection refers to focusing on certain information in an instruction. It can be promoted by driving attention to one part of a message and omitting non-critical information. Organization refers to inferring relations between pieces of information. It is especially important for memorization since associations between new data and prior knowledge “facilitates retrieval from long-term memory”, this process is guided by integration [20].
 
-Examples
+## Examples
 
 This paper will describe three software products that conform to the characteristics described above, and promote non-linguistic learning very effectively. It is worth noting that all these examples were not built as dedicated educational software, they are software puzzle games, which is interesting in itself: the best work on promotion of computational thinking using innovative approaches is being done outside of education, while the opposite would be expected. 
 
-Baba is You (2019, https://hempuli.com/baba/)
+###### Baba is You (2019, https://hempuli.com/baba/)
 
 The first example is a rather unique puzzle game in which puzzles are solved using linguistics. The rules of the game are not explained through textual descriptions, instead they are presented for each puzzle as short phrases that define the relations between objects on the screen, and are a part of the playing space (see fig. 4).
 
@@ -87,7 +87,7 @@ What’s even more interesting is the alternative solution to this puzzle. Since
 
 This will expectedly allow the level to be completed by placing Baba on top of any wall tile. Players are taught another important skill in this instance: thinking “outside the box”, which is a particularly important skill for a programmer to have, because every problem in programming has multiple viable solutions. Some solutions are more effective, while other solutions cheaper etc. but all of them are valid. The way Baba is You teaches this and other aspects of computational thinking without saying as much as an entire sentence, is ingenious.
 
-SpaceChem (2011, https://www.zachtronics.com/)
+###### SpaceChem (2011, https://www.zachtronics.com/)
 
 Next example is a puzzle game that employs elements of systemic design to solve problems that it poses before players. The game’s developers describe it as follows, “a design-based puzzle game is a puzzle game where solutions take the form of a design”5. To elaborate on that definition, traditional puzzles have only a single solution, so the goal is to figure out that solution. SpaceChem’s puzzles are set up in ways that do not support just one possible state but instead require the player to create a particular design by any means. This leads to each puzzle having multiple viable solutions.  
 
@@ -101,7 +101,7 @@ Completing a puzzle will result in a statistical screen (see fig. 9).
 
 Histograms on the completion screen are generated using data from the player’s most recent solution, and data from the player’s friends who also attempted the puzzle. These histograms compare performance of all players, thus using social links to encourage evaluation of the efficiency of one’s own solution. The player is informed of the fact that there are more efficient ways of solving the problem, and is shown the actual numbers behind the most efficient solution. This motivates the player to try to solve the puzzle again to improve the design, reevaluate one’s own work and iterate on it to perfect the outcome. That is one of the most important principles an engineer can learn: iterating on one’s design in order to improve it, ever so slightly. SpaceChem leverages the social element to motivate players by example from their peers, which is possible thanks to available network infrastructures that enable developers to connect players with one another. The learner gradually builds up professional intuition, and is subtly taught the importance of empirical validation. 
 
-SHENZHEN I/O (2016, https://www.zachtronics.com/)
+###### SHENZHEN I/O (2016, https://www.zachtronics.com/)
 
 The last example is the most elaborate puzzle game of the ones presented in this paper. It was developed by the same company that made SpaceChem. It has several categories of tools for solving its puzzles. The first category consists of modules with input and output in different configurations. Input and output wires connect to the respective ports on a chip. The player’s task is to program the chip using a simple procedural programming language (see fig. 10).
 
@@ -113,7 +113,7 @@ While SHENZHEN I/O is a commercial product that was not made for educational ins
 
 All of the examples above share several traits that are invaluable for computer science education (and in most cases - outside of it as well). Games are inherently suited for use in education. All higher animals engage in some form of games for learning purposes in the early stages of their lives [23]. Experience gained during such activity, including examples highlighted in this paper, is applicable in real life. However, the same cannot be said about most computer gaming software. Games are well suited for learning in context of specific forms of knowledge, where games fare much better than other forms of media. As this paper posits, knowledge that is inherently hard to verbalize makes a good use case for educational software. Software that models systems is particularly good at teaching computational thinking, and excels at teaching programming, if correctly applied. It enhances acquisition of skills like empirical validation, technical intuition etc.
 
-Conclusion
+# Conclusion
 
 When teaching programming concepts, the traditional approach to training using text is much less effective because the student is hindered by his lack of knowledge of: the relation between hardware and software, programming languages, basic constructs (algorithms), core paradigms etc. With a traditional approach, before a student can learn complex abstract concepts, he must learn a programming language and how to write a simple program in that language. The use of specialized software allows for teaching those concepts to students without any prior knowledge, in parallel to other established methods. 
 
@@ -123,36 +123,36 @@ Software engineering is an applied science. It requires expertise in multiple do
 
 Software has the means to provide education with the tools required for enabling a richer learning experience, circumventing traditional text-heavy forms of teaching, providing more effective methods of learning concepts that are essential for developing computational thinking, that at the same time are hard to verbalize. As it was demonstrated above, code comprehension does not involve the language processing areas of the brain in any significant way. However, it remains to be seen how the act of designing and writing code activates the same areas of the brain, or whether it relies on them at all. It is also not clear to what extent the proposed new forms of teaching would be more effective as compared to the traditional forms. In any case this paper’s research cannot be considered conclusive. There is still the need to accumulate empirical proof to quantify the assumed positive effects of non-linguistic learning, but that would have to be the subject of a future study. 
 
-Footnotes
+## Footnotes
 
-Video Games and the Future of Education, https://www.youtube.com/watch?v=qWFScmtiC44
-Rethinking Visual Programming, https://www.youtube.com/watch?v=Ps3mBPcjySE
-Star Code Galaxy, https://starcodegalaxy.com/
-Learn to Code FROM ZERO with Godot, the Free Game Engine, https://www.kickstarter.com/projects/gdquest/learn-to-code-from-zero-with-godot-the-free-game-engine
+1. [Video Games and the Future of Education](https://www.youtube.com/watch?v=qWFScmtiC44)
+2. [Rethinking Visual Programming](https://www.youtube.com/watch?v=Ps3mBPcjySE)
+3. [Star Code Galaxy](https://starcodegalaxy.com/)
+4. [Learn to Code FROM ZERO with Godot, the Free Game Engine](https://www.kickstarter.com/projects/gdquest/learn-to-code-from-zero-with-godot-the-free-game-engine)
 
-References
+## References
 
-C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It”, CBE life sciences education, 2020 
-M. Olsson, and P. Mozelius, “Learning to Program by Playing Learning Games”, European Conference on Games Based Learning, 2017 
-R. Mayer, and L. Fiorella, “Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles”, Cambridge Handbook of Multimedia Learning, pp.279-315, 2014 
-Developer Survey 2019: Open Source Runtime Pains, ActiveState, 2019 
-“How Much Time Do Developers Spend Actually Writing Code?”, Tidelift, The New Stack, 2019 
-“You Can Grow Your Intelligence”, Brainology Curriculum Guide for Teachers, Mindset Works, 2014 
-G. Albano, and F. Formato, “E-learning from Expertize: a Computational Approach to a non-textual Culture of Learning”, Advanced Learning Technologies Conference, 2001 
-Y.-F. Liu, J. Kim, C. Wilson, and M. Bedny, “Computer code comprehension shares neural resources with formal logical inference in the fronto-parietal network”, eLife, 2020 
-A. Ivanova, S. Srikant, Y. Sueoka, H. H. Kean, R. Dhamala, U.-M. O’Reilly, M. U. Bers, and E. Fedorenko, “Comprehension of computer code relies primarily on domain-general executive brain regions'', eLife, 2020 
-J. Siegmund, C. Kastner, S. Apel, C. Parnin, A. Bethmann, T. Leich, G. Saake, and A. Brechmann, “Understanding Understanding Source Code with Functional Magnetic Resonance Imaging”, ICSE, 2014 
-L. Vygotsky, “Thinking and Speech”, State Socio-economic Publishing, Moscow, Leningrad, 1934, p. 88 (in Russian) 
-Y. Kornilov, and I. Vladimirov, “Instrumental experience as component of the experience of practical change”, Yaroslav Psychology Herald, ed. 16, RPO, Moscow, Yaroslavl, 2005, pp. 21-28 (in Russian) 
-U. Liszkowski, “Three Lines in the Emergence of Prelinguistic Communication and Social Cognition”, Journal of Cognitive Education and Psychology, vol. 10, no. 1, Springer Publishing Company, 2011, pp. 32-43 
-J. M. Wing, “Computational Thinking Benefits Society”, Social Issues in Computing, New York Academic Press, 2014 
-J. M. Wing, “Computational Thinking”, Communications of the ACM, vol. 49, no. 3, 2006, pp. 33-35 
-A. Lamprou, and A. Repenning, “Computational Thinking [does not equal] Programming”, Swissinformatics Magazine, 2017 
-E. R. Oby, M. D. Golub, J. A. Hennig, A. D. Degenhart, E. C. Tyler-Kabara, B. M. Yu, S. M. Chase, and A. P. Batista, “New neural activity patterns emerge with long-term learning”, PNAS, 2019 
-D. Shibli, and R. West, “Cognitive load theory and its application in the classroom”, Impact Journal of the Chartered College of Teaching, Making Learning Stick: Open Access Cognitive Science, 2018 
-M. Thees, S. Kapp, M. P. Strzys, P. Lukiwicz, J. Kuhn, and F. Beil, “Effects of augmented reality on learning and cognitive load in university physics laboratory courses”, Computers in Human Behavior, 2020 
-M. McCrudden, and D. N. Rapp, “How Visual Displays Affect Cognitive Processing”, Educational Psychology Review, 2017 
-J. Villareale, C. F. Biemer, M. S. El-Nasr, and J. Zhu, “Reflection in Game-Based Learning: A Survey of Programming Games”, preprint, 2020 
-M. D. Vernon, “Cognitive Inference in Perceptual Activity”, British Journal of Psychology, vol. 48, no. 1, 1957, pp. 35-47 
-J. Huizinga, “Homo Ludens”, Progress, 1992, pp. 21-45 (in Russian) 
-J. C. Castro-Alonso, B. B. de Koning, L. Fiorella, and F. Paas, “Five Strategies for Optimizing Instructional Materials: Instructor- and Learner-Managed Cognitive Load”, Educational Psychology Review, 2021
+1. C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It”, CBE life sciences education, 2020 
+2. M. Olsson, and P. Mozelius, “Learning to Program by Playing Learning Games”, European Conference on Games Based Learning, 2017 
+3. R. Mayer, and L. Fiorella, “Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles”, Cambridge Handbook of Multimedia Learning, pp.279-315, 2014 
+4. Developer Survey 2019: Open Source Runtime Pains, ActiveState, 2019 
+5. “How Much Time Do Developers Spend Actually Writing Code?”, Tidelift, The New Stack, 2019 
+6. “You Can Grow Your Intelligence”, Brainology Curriculum Guide for Teachers, Mindset Works, 2014 
+7. G. Albano, and F. Formato, “E-learning from Expertize: a Computational Approach to a non-textual Culture of Learning”, Advanced Learning Technologies Conference, 2001 
+8. Y.-F. Liu, J. Kim, C. Wilson, and M. Bedny, “Computer code comprehension shares neural resources with formal logical inference in the fronto-parietal network”, eLife, 2020 
+9. A. Ivanova, S. Srikant, Y. Sueoka, H. H. Kean, R. Dhamala, U.-M. O’Reilly, M. U. Bers, and E. Fedorenko, “Comprehension of computer code relies primarily on domain-general executive brain regions'', eLife, 2020 
+10. J. Siegmund, C. Kastner, S. Apel, C. Parnin, A. Bethmann, T. Leich, G. Saake, and A. Brechmann, “Understanding Understanding Source Code with Functional Magnetic Resonance Imaging”, ICSE, 2014 
+11. L. Vygotsky, “Thinking and Speech”, State Socio-economic Publishing, Moscow, Leningrad, 1934, p. 88 (in Russian) 
+12. Y. Kornilov, and I. Vladimirov, “Instrumental experience as component of the experience of practical change”, Yaroslav Psychology Herald, ed. 16, RPO, Moscow, Yaroslavl, 2005, pp. 21-28 (in Russian) 
+13. U. Liszkowski, “Three Lines in the Emergence of Prelinguistic Communication and Social Cognition”, Journal of Cognitive Education and Psychology, vol. 10, no. 1, Springer Publishing Company, 2011, pp. 32-43 
+14. J. M. Wing, “Computational Thinking Benefits Society”, Social Issues in Computing, New York Academic Press, 2014 
+15. J. M. Wing, “Computational Thinking”, Communications of the ACM, vol. 49, no. 3, 2006, pp. 33-35 
+16. A. Lamprou, and A. Repenning, “Computational Thinking [does not equal] Programming”, Swissinformatics Magazine, 2017 
+17. E. R. Oby, M. D. Golub, J. A. Hennig, A. D. Degenhart, E. C. Tyler-Kabara, B. M. Yu, S. M. Chase, and A. P. Batista, “New neural activity patterns emerge with long-term learning”, PNAS, 2019 
+18. D. Shibli, and R. West, “Cognitive load theory and its application in the classroom”, Impact Journal of the Chartered College of Teaching, Making Learning Stick: Open Access Cognitive Science, 2018 
+19. M. Thees, S. Kapp, M. P. Strzys, P. Lukiwicz, J. Kuhn, and F. Beil, “Effects of augmented reality on learning and cognitive load in university physics laboratory courses”, Computers in Human Behavior, 2020 
+20. M. McCrudden, and D. N. Rapp, “How Visual Displays Affect Cognitive Processing”, Educational Psychology Review, 2017 
+21. J. Villareale, C. F. Biemer, M. S. El-Nasr, and J. Zhu, “Reflection in Game-Based Learning: A Survey of Programming Games”, preprint, 2020 
+22. M. D. Vernon, “Cognitive Inference in Perceptual Activity”, British Journal of Psychology, vol. 48, no. 1, 1957, pp. 35-47 
+23. J. Huizinga, “Homo Ludens”, Progress, 1992, pp. 21-45 (in Russian) 
+24. J. C. Castro-Alonso, B. B. de Koning, L. Fiorella, and F. Paas, “Five Strategies for Optimizing Instructional Materials: Instructor- and Learner-Managed Cognitive Load”, Educational Psychology Review, 2021
