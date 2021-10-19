@@ -1,6 +1,6 @@
 # The Case for Non-linguistic Approach to Teaching Engineering Thinking
 
-Software engineering is a multifaceted discipline. Mastering it requires memorizing a lot of factual information as well as learning a particular set of skills that enable the learner to tackle complex engineering tasks in a more efficient manner. It also requires the knowledge of at least one programming language. This makes teaching software engineering efficiently difficult. The traditional way of teaching programming (and by extension - engineering) to students heavily relies on delivering information in the form of lectures and via textbooks. This paper argues that lectures are becoming less and less effective [1](#references) when it comes to teaching programming, and that there are methods of doing it using software solutions which take into account how the human brain processes code. This paper will provide several concrete examples of how software enables students to learn the “spirit of engineering and problem solving” [1](#footnotes). Lastly, it argues that teaching programming without using textual explanations can be more effective in some contexts, and identifies several key aspects of using software that allow teaching major programming concepts without using textual information in order to make the whole learning process more efficient. 
+Software engineering is a multifaceted discipline. Mastering it requires memorizing a lot of factual information as well as learning a particular set of skills that enable the learner to tackle complex engineering tasks in a more efficient manner. It also requires the knowledge of at least one programming language. This makes teaching software engineering efficiently difficult. The traditional way of teaching programming (and by extension - engineering) to students heavily relies on delivering information in the form of lectures and via textbooks. This paper argues that lectures are becoming less and less effective [^Petersen] when it comes to teaching programming, and that there are methods of doing it using software solutions which take into account how the human brain processes code. This paper will provide several concrete examples of how software enables students to learn the “spirit of engineering and problem solving” [^1]. Lastly, it argues that teaching programming without using textual explanations can be more effective in some contexts, and identifies several key aspects of using software that allow teaching major programming concepts without using textual information in order to make the whole learning process more efficient. 
 
 ## Reliance on “content delivery”
 
@@ -10,7 +10,7 @@ Software engineering as a discipline requires vast knowledge of specialized tool
 
 It has been observed that people struggle when they are required to memorize a lot of new information, this phenomenon is explained by the working memory theory [3](#references). This goes in contrast with what students are expected to memorize during a single lecture. This negative effect is amplified when teaching subjects like programming, with the categories of information that has to be memorized changing constantly: lecture material often mixes language-specific information (keywords, syntactical rules, ready solutions), mathematical basis for a given solution (algorithm theory), hardware-specific limitations (computer memory management) etc. 
 
-Surveys conducted among software engineers consistently show that in most cases the average time spent writing code hovers slightly above 40% of their total working time [4](#references)[5](#references). Those estimated periods reported as “working on code” often include designing the program, doing research, “debugging” (resolving issues with existing code), reading code written by someone else, and other tasks not directly related to typing the program into a text file. So, the time spent using programming languages makes up less than 40% of what a software engineer does when working. 
+Surveys conducted among software engineers consistently show that in most cases the average time spent writing code hovers slightly above 40% of their total working time [4](#references), [5](#references). Those estimated periods reported as “working on code” often include designing the program, doing research, “debugging” (resolving issues with existing code), reading code written by someone else, and other tasks not directly related to typing the program into a text file. So, the time spent using programming languages makes up less than 40% of what a software engineer does when working. 
 
 Students are expected to develop certain ideas, concepts, and mental skills that link together disjointed chunks of knowledge into a coherent whole that forms a clear picture of how to solve programming problems. As this paper argues, that part of the learning process is the most important one and it is that part that determines how successful a student will be while solving programming/engineering tasks. Those ideas and skills cannot be learned by listening to a lecture or by reading a book, though they are learned about, which has its own value. Programming can only be learned by solving problems specifically designed to develop these kinds of skills. 
 
@@ -124,7 +124,7 @@ Software has the means to provide education with the tools required for enabling
 
 ## Footnotes
 
-1. [Video Games and the Future of Education](https://www.youtube.com/watch?v=qWFScmtiC44)
+[^1]: [Video Games and the Future of Education](https://www.youtube.com/watch?v=qWFScmtiC44)
 2. [Rethinking Visual Programming](https://www.youtube.com/watch?v=Ps3mBPcjySE)
 3. [Star Code Galaxy](https://starcodegalaxy.com/)
 4. [Learn to Code FROM ZERO with Godot, the Free Game Engine](https://www.kickstarter.com/projects/gdquest/learn-to-code-from-zero-with-godot-the-free-game-engine)
@@ -132,7 +132,7 @@ Software has the means to provide education with the tools required for enabling
 
 ## References
 
-1. C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “**The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It**”, *CBE life sciences education, 2020* 
+[^Petersen]: C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “**The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It**”, *CBE life sciences education, 2020* 
 2. M. Olsson, and P. Mozelius, “**Learning to Program by Playing Learning Games**”, *European Conference on Games Based Learning, 2017* 
 3. R. Mayer, and L. Fiorella, “**Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles**”, *Cambridge Handbook of Multimedia Learning, pp.279-315, 2014* 
 4. **Developer Survey 2019: Open Source Runtime Pains**, *ActiveState, 2019* 
