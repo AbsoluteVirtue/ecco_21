@@ -122,8 +122,6 @@ Software engineering is an applied science. It requires expertise in multiple do
 
 Software has the means to provide education with the tools required for enabling a richer learning experience, circumventing traditional text-heavy forms of teaching, providing more effective methods of learning concepts that are essential for developing computational thinking, that at the same time are hard to verbalize. As it was demonstrated above, code comprehension does not involve the language processing areas of the brain in any significant way. However, it remains to be seen how the act of designing and writing code activates the same areas of the brain, or whether it relies on them at all. It is also not clear to what extent the proposed new forms of teaching would be more effective as compared to the traditional forms. In any case this paper’s research cannot be considered conclusive. There is still the need to accumulate empirical proof to quantify the assumed positive effects of non-linguistic learning, but that would have to be the subject of a future study.
 
-## References
-
 [^1]: [Zachademics](https://www.zachtronics.com/zachademics/)
 [^2]: [Video Games and the Future of Education](https://www.youtube.com/watch?v=qWFScmtiC44)
 [^3]: [Star Code Galaxy](https://starcodegalaxy.com/)
