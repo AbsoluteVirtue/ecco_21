@@ -43,27 +43,27 @@ Software engineering is an applied science. It requires expertise in multiple do
 The author would like to thank the anonymous reviewers for their feedback and advice.
 
 ## References
-    [^1]: CS50 Syllabus, Harvard College, https://cs50.harvard.edu/college/2021/fall/syllabus/
-    [^2]: The process of gauging the amount of resources software applications require to run, usually employed to detect deficiencies in resource management.
-    [^albano]: G. Albano, and F. Formato, “E-learning from Expertize: a Computational Approach to a non-textual Culture of Learning”, Advanced Learning Technologies Conference, 2001.
-    [^castro_alonso]: J. C. Castro-Alonso, B. B. de Koning, L. Fiorella, and F. Paas, “Five Strategies for Optimizing Instructional Materials: Instructor- and Learner-Managed Cognitive Load”, Educational Psychology Review, 2021.
-    [^ivanova]^ :A. Ivanova, S. Srikant, Y. Sueoka, H. H. Kean, R. Dhamala, U.-M. O’Reilly, M. U. Bers, and E. Fedorenko, “Comprehension of computer code relies primarily on domain-general executive brain regions'', eLife, 2020.
-    [^kay]: A. C. Kay, "The Early History of Smalltalk", History of Programming Languages II, Association for Computing Machinery, 1996.
-    [^kornilov]: Y. Kornilov, and I. Vladimirov, “Instrumental experience as component of the experience of practical change”, Yaroslav Psychology Herald, ed. 16, RPO, Moscow, Yaroslavl, 2005, pp. 21-28 (in Russian).
-    [^lamprou]: A. Lamprou, and A. Repenning, “Computational Thinking [does not equal] Programming”, Swissinformatics Magazine, 2017.
-    [^liu]: Y.-F. Liu, J. Kim, C. Wilson, and M. Bedny, “Computer code comprehension shares neural resources with formal logical inference in the fronto-parietal network”,  eLife, 2020.
-    [^liszkowski]: U. Liszkowski, “Three Lines in the Emergence of Prelinguistic Communication and Social Cognition”, Journal of Cognitive Education and Psychology, vol. 10, no. 1, Springer Publishing Company, 2011, pp. 32-43.
-    [^mayer]: R. Mayer, and L. Fiorella, “Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles”, Cambridge Handbook of Multimedia Learning, pp.279-315, 2014.
-    [^mccrudden]: M. McCrudden, and D. N. Rapp, “How Visual Displays Affect Cognitive Processing”, Educational Psychology Review, 2017.
-    [^mindsetworks]: “You Can Grow Your Intelligence”, Brainology Curriculum Guide for Teachers, Mindset Works, 2014.
-    [^oby]: E. R. Oby, M. D. Golub, J. A. Hennig, A. D. Degenhart, E. C. Tyler-Kabara, B. M. Yu, S. M. Chase, and A. P. Batista, “New neural activity patterns emerge with long-term learning”, PNAS, 2019.
-    [^olsson]: M. Olsson, and P. Mozelius, “Learning to Program by Playing Learning Games”, European Conference on Games Based Learning, 2017.
-    [^petersen]: C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It”, CBE life sciences education, 2020.
-    [^shibli]: D. Shibli, and R. West, “Cognitive load theory and its application in the classroom”, Impact Journal of the Chartered College of Teaching, Making Learning Stick: Open Access Cognitive Science, 2018.
-    [^soloway]: E. Soloway, J. C. Spohrer, “Studying the Novice Programmer”, Lawrence Erlbaum Associates, Inc., New Jersey, 1989.
-    [^thees]: M. Thees, S. Kapp, M. P. Strzys, P. Lukiwicz, J. Kuhn, and F. Beil, “Effects of augmented reality on learning and cognitive load in university physics laboratory courses”, Computers in Human Behavior, 2020.
-    [^vernon]: M. D. Vernon, “Cognitive Inference in Perceptual Activity”, British Journal of Psychology, vol. 48, no. 1, 1957, pp. 35-47.
-    [^villareale]: J. Villareale, C. F. Biemer, M. S. El-Nasr, and J. Zhu, “Reflection in Game-Based Learning: A Survey of Programming Games”, preprint, 2020.
-    [^vygotsky]: L. Vygotsky, “Thinking and Speech”, State Socio-economic Publishing, Moscow, Leningrad, 1934, p. 88 (in Russian).
-    [^wing06]: J. M. Wing, “Computational Thinking”, Communications of the ACM, vol. 49, no. 3, 2006, pp. 33-35.
-    [^wing14]: J. M. Wing, “Computational Thinking Benefits Society”, Social Issues in Computing, New York Academic Press, 2014.
+[^1]: CS50 Syllabus, Harvard College, https://cs50.harvard.edu/college/2021/fall/syllabus/
+[^2]: The process of gauging the amount of resources software applications require to run, usually employed to detect deficiencies in resource management.
+[^albano]: G. Albano, and F. Formato, “E-learning from Expertize: a Computational Approach to a non-textual Culture of Learning”, Advanced Learning Technologies Conference, 2001.
+[^castro_alonso]: J. C. Castro-Alonso, B. B. de Koning, L. Fiorella, and F. Paas, “Five Strategies for Optimizing Instructional Materials: Instructor- and Learner-Managed Cognitive Load”, Educational Psychology Review, 2021.
+[^ivanova]^ :A. Ivanova, S. Srikant, Y. Sueoka, H. H. Kean, R. Dhamala, U.-M. O’Reilly, M. U. Bers, and E. Fedorenko, “Comprehension of computer code relies primarily on domain-general executive brain regions'', eLife, 2020.
+[^kay]: A. C. Kay, "The Early History of Smalltalk", History of Programming Languages II, Association for Computing Machinery, 1996.
+[^kornilov]: Y. Kornilov, and I. Vladimirov, “Instrumental experience as component of the experience of practical change”, Yaroslav Psychology Herald, ed. 16, RPO, Moscow, Yaroslavl, 2005, pp. 21-28 (in Russian).
+[^lamprou]: A. Lamprou, and A. Repenning, “Computational Thinking [does not equal] Programming”, Swissinformatics Magazine, 2017.
+[^liu]: Y.-F. Liu, J. Kim, C. Wilson, and M. Bedny, “Computer code comprehension shares neural resources with formal logical inference in the fronto-parietal network”,  eLife, 2020.
+[^liszkowski]: U. Liszkowski, “Three Lines in the Emergence of Prelinguistic Communication and Social Cognition”, Journal of Cognitive Education and Psychology, vol. 10, no. 1, Springer Publishing Company, 2011, pp. 32-43.
+[^mayer]: R. Mayer, and L. Fiorella, “Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles”, Cambridge Handbook of Multimedia Learning, pp.279-315, 2014.
+[^mccrudden]: M. McCrudden, and D. N. Rapp, “How Visual Displays Affect Cognitive Processing”, Educational Psychology Review, 2017.
+[^mindsetworks]: “You Can Grow Your Intelligence”, Brainology Curriculum Guide for Teachers, Mindset Works, 2014.
+[^oby]: E. R. Oby, M. D. Golub, J. A. Hennig, A. D. Degenhart, E. C. Tyler-Kabara, B. M. Yu, S. M. Chase, and A. P. Batista, “New neural activity patterns emerge with long-term learning”, PNAS, 2019.
+[^olsson]: M. Olsson, and P. Mozelius, “Learning to Program by Playing Learning Games”, European Conference on Games Based Learning, 2017.
+[^petersen]: C. I. Petersen, P. Baepler, A. J. Beitz, and J. Walker, “The Tyranny of Content: “Content Coverage” as a Barrier to Evidence-Based Teaching Approaches and Ways to Overcome It”, CBE life sciences education, 2020.
+[^shibli]: D. Shibli, and R. West, “Cognitive load theory and its application in the classroom”, Impact Journal of the Chartered College of Teaching, Making Learning Stick: Open Access Cognitive Science, 2018.
+[^soloway]: E. Soloway, J. C. Spohrer, “Studying the Novice Programmer”, Lawrence Erlbaum Associates, Inc., New Jersey, 1989.
+[^thees]: M. Thees, S. Kapp, M. P. Strzys, P. Lukiwicz, J. Kuhn, and F. Beil, “Effects of augmented reality on learning and cognitive load in university physics laboratory courses”, Computers in Human Behavior, 2020.
+[^vernon]: M. D. Vernon, “Cognitive Inference in Perceptual Activity”, British Journal of Psychology, vol. 48, no. 1, 1957, pp. 35-47.
+[^villareale]: J. Villareale, C. F. Biemer, M. S. El-Nasr, and J. Zhu, “Reflection in Game-Based Learning: A Survey of Programming Games”, preprint, 2020.
+[^vygotsky]: L. Vygotsky, “Thinking and Speech”, State Socio-economic Publishing, Moscow, Leningrad, 1934, p. 88 (in Russian).
+[^wing06]: J. M. Wing, “Computational Thinking”, Communications of the ACM, vol. 49, no. 3, 2006, pp. 33-35.
+[^wing14]: J. M. Wing, “Computational Thinking Benefits Society”, Social Issues in Computing, New York Academic Press, 2014.
