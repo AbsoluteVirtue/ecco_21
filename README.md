@@ -47,6 +47,7 @@ Software engineering is an applied science. It requires expertise in multiple do
 5. Ivan Danyliuk, Rethinking visual programming, https://youtu.be/Ps3mBPcjySE
 6. Tom Stuart, Programming with nothing, https://youtu.be/VUhlNx_-wYk
 7. Jonathan Blow, Video games and the future of education, https://youtu.be/qWFScmtiC44
+8. Zach Barth, 10 years of terrible games, https://youtu.be/ofz-BJI2bu4
 
 ## References
 [^1]: CS50 Syllabus, Harvard College, https://cs50.harvard.edu/college/2021/fall/syllabus/
