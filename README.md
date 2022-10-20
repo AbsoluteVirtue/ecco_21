@@ -39,8 +39,14 @@ Before an engineering student can learn complex abstract concepts, he must learn
 Interactivity is one of the most important properties of computer software. It enables software to react to the actions of the user in ways that allow the user to gain experience and knowledge non-linguistically. Each interaction can be viewed as a self-contained experiment: the user thinks of a desirable outcome, tries an action, looks at the reaction, evaluates the outcome and repeats the loop if necessary. Coincidentally this mirrors thought processes that occur when completing programming tasks. Contemplating an idea, implementing it in code, launching it on a computer, the computer instantly reacting to it. If it reacts in an unexpected way it is seldom not a teaching moment, it enables learning from expertise. The user learns something new about the programming language being used, about the way the computer processes information, about their own thought process. These characteristic properties of computer software could be harnessed for educational purposes.
 Software engineering is an applied science. It requires expertise in multiple domains. “Expertise is an ability acquired mostly by experience” [^albano]. However, it is worth noting that this effect is not uniform with learners across all levels of experience. “When assessing which agent, either the instructor or the learner, was most effective, we observed mixed results in the literature, [...] novice students may learn better under instructor-managed conditions, whereas more expert students may learn more under learner-managed conditions” [^castro_alonso]. Software has the means to provide education with the tools required for enabling a richer learning experience, circumventing traditional text-heavy forms of teaching, providing more effective methods of learning concepts that are essential for developing computational thinking, that at the same time are hard to verbalize. However, it is unclear to what extent non-linguistic new forms of teaching would be more effective. There is still need to accumulate empirical proof to quantify the assumed positive effects of non-linguistic learning, but that would have to be the subject of a future study.
 
-## Acknowledgment 
-The author would like to thank the anonymous reviewers for their feedback and advice.
+## Additional resources 
+1. Casey Muratori, The thirty million line problem, https://youtu.be/kZRE7HIO3vk
+2. Jonathan Blow, Preventing the collapse of civilization, https://youtu.be/ZSRHeXYDLko
+3. Casey Muratori, Where does bad code come from, https://youtu.be/7YpFGkG-u1w
+4. Jack Rusher, Stop writing dead programs, https://youtu.be/8Ab3ArE8W3s
+5. Ivan Danyliuk, Rethinking visual programming, https://youtu.be/Ps3mBPcjySE
+6. Tom Stuart, Programming with nothing, https://youtu.be/VUhlNx_-wYk
+7. Jonathan Blow, Video games and the future of education, https://youtu.be/qWFScmtiC44
 
 ## References
 [^1]: CS50 Syllabus, Harvard College, https://cs50.harvard.edu/college/2021/fall/syllabus/
